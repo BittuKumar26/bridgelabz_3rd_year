@@ -17,5 +17,6 @@ public class Areaoftriangle {
         double area=0.5*base*ht;
         double areainches=area/(2.54*2.54);   
         System.out.println("Your Height in cm is "+ ht + " area of triangle in inches  " + areainches);
+        sc.close();
     } 
 }
