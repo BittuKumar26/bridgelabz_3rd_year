@@ -1,4 +1,4 @@
-package level1;
+package Level-1;
 class Employee {
     // non-static variables
     String name;
